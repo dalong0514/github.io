@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2018/03/15/SY-JK20180315/</loc>
+    <lastmod>2018-03-16T01:02:54.125Z</lastmod>
+    <data>
+        <display>
+        <title>JK 摄影心得</title>
+        <pubTime>2018-03-15T00:40:58.000Z</pubTime>
+        
+        <tag>JK</tag>
+         
+         
+           
+             
+              <breadCrumb title="摄影" url="http://yoursite.com/categories/%E6%91%84%E5%BD%B1/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/03/14/IT-HexoGitHub20180315/</loc>
+    <lastmod>2018-03-15T00:39:25.342Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo&GitHub搭建博客</title>
+        <pubTime>2018-03-14T15:01:33.000Z</pubTime>
+        
+        <tag>博客</tag>
+         
+         
+           
+             
+              <breadCrumb title="计算机" url="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
