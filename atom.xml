@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>StormDaglas的小窝</title>
+  
+  <subtitle>个人成长分享</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-16T01:02:54.125Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>StormDaglas</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JK 摄影心得</title>
+    <link href="http://yoursite.com/2018/03/15/SY-JK20180315/"/>
+    <id>http://yoursite.com/2018/03/15/SY-JK20180315/</id>
+    <published>2018-03-15T00:40:58.000Z</published>
+    <updated>2018-03-16T01:02:54.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;JK-外景&quot;&gt;&lt;a href=&quot;#JK-外景&quot; class=&quot;headerlink&quot; title=&quot;JK 外景&quot;&gt;&lt;/a&gt;JK 外景&lt;/h1&gt;&lt;h2 id=&quot;室外光线&quot;&gt;&lt;a href=&quot;#室外光线&quot; class=&quot;headerlink&quot; title=&quot;室外光线&quot;
+      
+    
+    </summary>
+    
+      <category term="摄影" scheme="http://yoursite.com/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+      <category term="JK" scheme="http://yoursite.com/tags/JK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo&amp;GitHub搭建博客</title>
+    <link href="http://yoursite.com/2018/03/14/IT-HexoGitHub20180315/"/>
+    <id>http://yoursite.com/2018/03/14/IT-HexoGitHub20180315/</id>
+    <published>2018-03-14T15:01:33.000Z</published>
+    <updated>2018-03-15T00:39:25.342Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Hexo搭建博客托管到GitHub&quot;&gt;&lt;a href=&quot;#Hexo搭建博客托管到GitHub&quot; class=&quot;headerlink&quot; title=&quot;Hexo搭建博客托管到GitHub&quot;&gt;&lt;/a&gt;Hexo搭建博客托管到GitHub&lt;/h1&gt;&lt;h2 id=&quot;安装Hex
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
