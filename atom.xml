@@ -41,10 +41,10 @@
   
   <entry>
     <title>Hexo&amp;GitHub搭建博客</title>
-    <link href="http://www.stormdaglas.com/2018/03/14/IT-HexoGitHub20180315/"/>
-    <id>http://www.stormdaglas.com/2018/03/14/IT-HexoGitHub20180315/</id>
+    <link href="http://www.stormdaglas.com/2018/03/14/IT-Hexo-GitHub20180314/"/>
+    <id>http://www.stormdaglas.com/2018/03/14/IT-Hexo-GitHub20180314/</id>
     <published>2018-03-14T15:01:33.000Z</published>
-    <updated>2018-03-16T17:42:13.314Z</updated>
+    <updated>2018-03-17T11:59:11.728Z</updated>
     
     <summary type="html">
     
@@ -58,7 +58,7 @@
       <category term="计算机" scheme="http://www.stormdaglas.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
     
-      <category term="博客" scheme="http://www.stormdaglas.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo" scheme="http://www.stormdaglas.com/tags/Hexo/"/>
     
   </entry>
   
