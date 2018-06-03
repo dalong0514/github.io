@@ -1,27 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>StormDaglas的小窝</title>
+  <title>Daglas的小窝</title>
   
   <subtitle>个人成长分享</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.stormdaglas.com/"/>
-  <updated>2018-05-12T08:40:48.552Z</updated>
+  <updated>2018-06-03T07:14:08.355Z</updated>
   <id>http://www.stormdaglas.com/</id>
   
   <author>
-    <name>StormDaglas</name>
+    <name>Daglas</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>时装女模收入比男模高背后的逻辑</title>
+    <link href="http://www.stormdaglas.com/2018/06/02/20180602%E6%97%B6%E8%A3%85%E5%A5%B3%E6%A8%A1%E6%94%B6%E5%85%A5%E6%AF%94%E7%94%B7%E6%A8%A1%E9%AB%98%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91/"/>
+    <id>http://www.stormdaglas.com/2018/06/02/20180602时装女模收入比男模高背后的逻辑/</id>
+    <published>2018-06-02T13:00:00.000Z</published>
+    <updated>2018-06-03T07:14:08.355Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;时装男女模特&quot;&gt;&lt;a href=&quot;#时装男女模特&quot; class=&quot;headerlink&quot; title=&quot;时装男女模特&quot;&gt;&lt;/a&gt;时装男女模特&lt;/h2&gt;&lt;p&gt;05 年有五名时装女模特跻身《福布斯》年度收入最高百强榜，但该榜上没有 1 名男模特。海蒂·克鲁姆该年挣了 750 万美元，其他几个顶尖女模甚至挣的更多，其中最高的是吉赛尔·邦辰，1500 万美元，邦辰就是 16 年里约奥运会上走秀的那位。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="东西不够" scheme="http://www.stormdaglas.com/tags/%E4%B8%9C%E8%A5%BF%E4%B8%8D%E5%A4%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对「分工」的一点思考</title>
+    <link href="http://www.stormdaglas.com/2018/05/20/20180520%E5%AF%B9%E5%88%86%E5%B7%A5%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83/"/>
+    <id>http://www.stormdaglas.com/2018/05/20/20180520对分工的一点思考/</id>
+    <published>2018-05-20T13:00:00.000Z</published>
+    <updated>2018-06-03T07:09:42.385Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前几天看到曹大的一篇文章「社会分工的理想与现实」，有兴趣的可以到文末链接处看看。下面且把自己对「分工」的一点思考和认知与大家分享。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="相互依赖" scheme="http://www.stormdaglas.com/tags/%E7%9B%B8%E4%BA%92%E4%BE%9D%E8%B5%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为啥我们的移动支付这么牛</title>
+    <link href="http://www.stormdaglas.com/2018/05/13/20180528%E4%B8%BA%E5%95%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%A7%BB%E5%8A%A8%E6%94%AF%E4%BB%98%E8%BF%99%E4%B9%88%E7%89%9B/"/>
+    <id>http://www.stormdaglas.com/2018/05/13/20180528为啥我们的移动支付这么牛/</id>
+    <published>2018-05-13T13:00:00.000Z</published>
+    <updated>2018-06-03T07:10:37.059Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;全球领先的移动支付&quot;&gt;&lt;a href=&quot;#全球领先的移动支付&quot; class=&quot;headerlink&quot; title=&quot;全球领先的移动支付&quot;&gt;&lt;/a&gt;全球领先的移动支付&lt;/h2&gt;&lt;p&gt;大家都知道，我们在互联网领域里很多都是模仿国外的，国外先有一个，我们这边模仿一个很正常。但是移动支付领域可以说是我们的自主创新，目前已经大大领先欧美。&lt;/p&gt;
+&lt;p&gt;估计很多人跟我一样，出门身上是没现金的，消费交易要么支付宝要么微信，信用卡都很少刷了。咱今天就来说一说为啥我们的移动支付这么牛。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="时间有限" scheme="http://www.stormdaglas.com/tags/%E6%97%B6%E9%97%B4%E6%9C%89%E9%99%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>柠檬市场的故事</title>
+    <link href="http://www.stormdaglas.com/2018/05/13/20180513%E6%9F%A0%E6%AA%AC%E5%B8%82%E5%9C%BA%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    <id>http://www.stormdaglas.com/2018/05/13/20180513柠檬市场的故事/</id>
+    <published>2018-05-13T13:00:00.000Z</published>
+    <updated>2018-06-03T07:11:38.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;社会分工合作给彼此带来极大的利益，人与人之间是相互依赖的。你每天都要依赖别人给你提供的商品和服务，但由于信息不对称的存在，在交易中会出现一方「欺负」另一方的情况。&lt;/p&gt;
+&lt;p&gt;引出信息不对称问题的，要属经济学家阿克洛夫 1970 年发表的论文《柠檬市场：品质不确定性和市场机制》。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="相互依赖" scheme="http://www.stormdaglas.com/tags/%E7%9B%B8%E4%BA%92%E4%BE%9D%E8%B5%96/"/>
+    
+  </entry>
+  
+  <entry>
     <title>模特医生公务员三个职业选哪个</title>
-    <link href="http://www.stormdaglas.com/2018/05/12/%E6%A8%A1%E7%89%B9%E5%8C%BB%E7%94%9F%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%89%E4%B8%AA%E8%81%8C%E4%B8%9A%E9%80%89%E5%93%AA%E4%B8%AA/"/>
-    <id>http://www.stormdaglas.com/2018/05/12/模特医生公务员三个职业选哪个/</id>
+    <link href="http://www.stormdaglas.com/2018/05/12/20180512%E6%A8%A1%E7%89%B9%E5%8C%BB%E7%94%9F%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%89%E4%B8%AA%E8%81%8C%E4%B8%9A%E9%80%89%E5%93%AA%E4%B8%AA/"/>
+    <id>http://www.stormdaglas.com/2018/05/12/20180512模特医生公务员三个职业选哪个/</id>
     <published>2018-05-12T08:37:59.000Z</published>
-    <updated>2018-05-12T08:40:48.552Z</updated>
+    <updated>2018-06-03T06:52:23.768Z</updated>
     
     <summary type="html">
     
@@ -38,10 +120,10 @@
   
   <entry>
     <title>换个角度看放贷</title>
-    <link href="http://www.stormdaglas.com/2018/05/12/%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E6%94%BE%E8%B4%B7/"/>
-    <id>http://www.stormdaglas.com/2018/05/12/换个角度看放贷/</id>
+    <link href="http://www.stormdaglas.com/2018/05/12/20180512%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E6%94%BE%E8%B4%B7/"/>
+    <id>http://www.stormdaglas.com/2018/05/12/20180512换个角度看放贷/</id>
     <published>2018-05-12T08:37:34.000Z</published>
-    <updated>2018-05-12T08:39:00.285Z</updated>
+    <updated>2018-06-03T06:52:01.313Z</updated>
     
     <summary type="html">
     
@@ -58,10 +140,10 @@
   
   <entry>
     <title>竞争资源，票子优先？</title>
-    <link href="http://www.stormdaglas.com/2018/05/02/%E7%AB%9E%E4%BA%89%E8%B5%84%E6%BA%90%E7%A5%A8%E5%AD%90%E4%BC%98%E5%85%88/"/>
-    <id>http://www.stormdaglas.com/2018/05/02/竞争资源票子优先/</id>
+    <link href="http://www.stormdaglas.com/2018/05/02/20180502%E7%AB%9E%E4%BA%89%E8%B5%84%E6%BA%90%E7%A5%A8%E5%AD%90%E4%BC%98%E5%85%88/"/>
+    <id>http://www.stormdaglas.com/2018/05/02/20180502竞争资源票子优先/</id>
     <published>2018-05-02T12:39:17.000Z</published>
-    <updated>2018-05-02T12:40:39.804Z</updated>
+    <updated>2018-06-03T06:51:33.480Z</updated>
     
     <summary type="html">
     
@@ -78,10 +160,10 @@
   
   <entry>
     <title>讲数不讲理，科斯定律带来的启示</title>
-    <link href="http://www.stormdaglas.com/2018/04/26/%E8%AE%B2%E6%95%B0%E4%B8%8D%E8%AE%B2%E7%90%86/"/>
-    <id>http://www.stormdaglas.com/2018/04/26/讲数不讲理/</id>
+    <link href="http://www.stormdaglas.com/2018/04/26/20180426%E8%AE%B2%E6%95%B0%E4%B8%8D%E8%AE%B2%E7%90%86%E7%A7%91%E6%96%AF%E5%AE%9A%E5%BE%8B%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%90%AF%E7%A4%BA/"/>
+    <id>http://www.stormdaglas.com/2018/04/26/20180426讲数不讲理科斯定律带来的启示/</id>
     <published>2018-04-26T04:56:53.000Z</published>
-    <updated>2018-05-12T08:43:17.563Z</updated>
+    <updated>2018-06-03T06:50:57.301Z</updated>
     
     <summary type="html">
     
@@ -99,10 +181,10 @@
   
   <entry>
     <title>凡选择必有歧视</title>
-    <link href="http://www.stormdaglas.com/2018/04/21/JJ-qishi/"/>
-    <id>http://www.stormdaglas.com/2018/04/21/JJ-qishi/</id>
+    <link href="http://www.stormdaglas.com/2018/04/21/20180421%E5%87%A1%E9%80%89%E6%8B%A9%E5%BF%85%E6%9C%89%E6%AD%A7%E8%A7%86/"/>
+    <id>http://www.stormdaglas.com/2018/04/21/20180421凡选择必有歧视/</id>
     <published>2018-04-21T06:57:23.000Z</published>
-    <updated>2018-05-12T08:43:11.021Z</updated>
+    <updated>2018-06-03T06:50:17.539Z</updated>
     
     <summary type="html">
     
@@ -121,10 +203,10 @@
   
   <entry>
     <title>学会倾听</title>
-    <link href="http://www.stormdaglas.com/2018/04/14/RZ-LingTing/"/>
-    <id>http://www.stormdaglas.com/2018/04/14/RZ-LingTing/</id>
+    <link href="http://www.stormdaglas.com/2018/04/14/20180414%E5%AD%A6%E4%BC%9A%E5%80%BE%E5%90%AC/"/>
+    <id>http://www.stormdaglas.com/2018/04/14/20180414学会倾听/</id>
     <published>2018-04-14T05:45:07.000Z</published>
-    <updated>2018-04-14T05:46:10.542Z</updated>
+    <updated>2018-06-03T06:49:42.280Z</updated>
     
     <summary type="html">
     
@@ -145,10 +227,10 @@
   
   <entry>
     <title>Google搜索使用技巧</title>
-    <link href="http://www.stormdaglas.com/2018/04/10/IT-GoogleSearch/"/>
-    <id>http://www.stormdaglas.com/2018/04/10/IT-GoogleSearch/</id>
+    <link href="http://www.stormdaglas.com/2018/04/10/20180410Google%E6%90%9C%E7%B4%A2%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://www.stormdaglas.com/2018/04/10/20180410Google搜索使用技巧/</id>
     <published>2018-04-09T17:25:36.000Z</published>
-    <updated>2018-04-18T00:44:05.154Z</updated>
+    <updated>2018-06-03T06:49:15.674Z</updated>
     
     <summary type="html">
     
@@ -166,10 +248,10 @@
   
   <entry>
     <title>对「时间管理」的认知</title>
-    <link href="http://www.stormdaglas.com/2018/04/05/RZ-SJGL20180405/"/>
-    <id>http://www.stormdaglas.com/2018/04/05/RZ-SJGL20180405/</id>
+    <link href="http://www.stormdaglas.com/2018/04/05/20180405%E5%AF%B9%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9A%84%E8%AE%A4%E7%9F%A5/"/>
+    <id>http://www.stormdaglas.com/2018/04/05/20180405对时间管理的认知/</id>
     <published>2018-04-05T13:43:52.000Z</published>
-    <updated>2018-04-05T13:49:29.751Z</updated>
+    <updated>2018-06-03T06:48:30.902Z</updated>
     
     <summary type="html">
     
@@ -190,10 +272,10 @@
   
   <entry>
     <title>「成本」概念解读</title>
-    <link href="http://www.stormdaglas.com/2018/03/22/JJ-cost/"/>
-    <id>http://www.stormdaglas.com/2018/03/22/JJ-cost/</id>
+    <link href="http://www.stormdaglas.com/2018/03/22/20180322%E6%88%90%E6%9C%AC%E6%A6%82%E5%BF%B5%E8%A7%A3%E8%AF%BB/"/>
+    <id>http://www.stormdaglas.com/2018/03/22/20180322成本概念解读/</id>
     <published>2018-03-22T07:12:21.000Z</published>
-    <updated>2018-05-12T08:42:33.408Z</updated>
+    <updated>2018-06-03T06:40:47.238Z</updated>
     
     <summary type="html">
     
@@ -210,10 +292,10 @@
   
   <entry>
     <title>「如何阅读一本书」读后感</title>
-    <link href="http://www.stormdaglas.com/2018/03/17/RZ-How-to-Read-a-Book20180317/"/>
-    <id>http://www.stormdaglas.com/2018/03/17/RZ-How-to-Read-a-Book20180317/</id>
+    <link href="http://www.stormdaglas.com/2018/03/17/20180317%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <id>http://www.stormdaglas.com/2018/03/17/20180317如何阅读一本书读后感/</id>
     <published>2018-03-17T12:29:01.000Z</published>
-    <updated>2018-03-22T07:35:26.992Z</updated>
+    <updated>2018-06-03T06:41:34.103Z</updated>
     
     <summary type="html">
     
@@ -231,10 +313,10 @@
   
   <entry>
     <title>JK 摄影心得</title>
-    <link href="http://www.stormdaglas.com/2018/03/15/SY-JK20180315/"/>
-    <id>http://www.stormdaglas.com/2018/03/15/SY-JK20180315/</id>
+    <link href="http://www.stormdaglas.com/2018/03/15/20180315JK%E6%91%84%E5%BD%B1%E5%BF%83%E5%BE%97/"/>
+    <id>http://www.stormdaglas.com/2018/03/15/20180315JK摄影心得/</id>
     <published>2018-03-15T00:40:58.000Z</published>
-    <updated>2018-03-22T16:18:16.601Z</updated>
+    <updated>2018-06-03T06:42:01.342Z</updated>
     
     <summary type="html">
     
@@ -255,10 +337,10 @@
   
   <entry>
     <title>Hexo&amp;GitHub搭建博客</title>
-    <link href="http://www.stormdaglas.com/2018/03/14/IT-Hexo-GitHub20180314/"/>
-    <id>http://www.stormdaglas.com/2018/03/14/IT-Hexo-GitHub20180314/</id>
+    <link href="http://www.stormdaglas.com/2018/03/14/20180314Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E5%88%B0GitHub/"/>
+    <id>http://www.stormdaglas.com/2018/03/14/20180314Hexo搭建博客托管到GitHub/</id>
     <published>2018-03-14T15:01:33.000Z</published>
-    <updated>2018-03-17T11:59:11.728Z</updated>
+    <updated>2018-06-03T06:39:32.739Z</updated>
     
     <summary type="html">
     
