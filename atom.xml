@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.stormdaglas.com/"/>
-  <updated>2018-06-09T08:15:45.367Z</updated>
+  <updated>2018-06-23T15:27:31.291Z</updated>
   <id>http://www.stormdaglas.com/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.stormdaglas.com/2018/06/22/20180623%E7%BE%8A%E6%AF%9B%E5%87%BA%E5%9C%A8%E7%8C%AA%E8%BA%AB%E4%B8%8A%E7%8B%97%E4%B9%B0%E5%8D%95/"/>
+    <id>http://www.stormdaglas.com/2018/06/22/20180623羊毛出在猪身上狗买单/</id>
+    <published>2018-06-22T15:40:43.983Z</published>
+    <updated>2018-06-23T15:27:31.291Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;生活中我们常常遇到「免费」的东西。杭州西湖周边景区免费，但你要知道新政实施后，吸引了大量游客，周边的餐饮住宿创收 200 多个亿，同期增长达 5 倍。虽然作为公共设施的「西湖」没有盈利，可从政府的角度来看，游客增加带来消费，消费带来税收和就业。&lt;/p&gt;
+&lt;p&gt;同样的，很多企业也采用这种「免费」商业模式，比如乐视买会员送电视，硬件电视是「免费」的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>说说摇号的那些事</title>
+    <link href="http://www.stormdaglas.com/2018/06/09/20180609%E8%AF%B4%E8%AF%B4%E6%91%87%E5%8F%B7%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <id>http://www.stormdaglas.com/2018/06/09/20180609说说摇号的那些事/</id>
+    <published>2018-06-09T13:00:00.000Z</published>
+    <updated>2018-06-09T13:48:36.034Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前些天看到西安买房摇号打招内定事件，后深圳又有某高档楼盘摇号先交 500W 诚意金，某楼盘还没开卖就传出「喝茶费」等等。摇号是「价格管制」的衍生品，那么今天就来聊聊有关摇号、价格管制的一些事。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="东西不够" scheme="http://www.stormdaglas.com/tags/%E4%B8%9C%E8%A5%BF%E4%B8%8D%E5%A4%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>价格管制理论</title>
@@ -80,27 +117,6 @@
   </entry>
   
   <entry>
-    <title>柠檬市场的故事</title>
-    <link href="http://www.stormdaglas.com/2018/05/13/20180513%E6%9F%A0%E6%AA%AC%E5%B8%82%E5%9C%BA%E7%9A%84%E6%95%85%E4%BA%8B/"/>
-    <id>http://www.stormdaglas.com/2018/05/13/20180513柠檬市场的故事/</id>
-    <published>2018-05-13T13:00:00.000Z</published>
-    <updated>2018-06-03T07:11:38.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;社会分工合作给彼此带来极大的利益，人与人之间是相互依赖的。你每天都要依赖别人给你提供的商品和服务，但由于信息不对称的存在，在交易中会出现一方「欺负」另一方的情况。&lt;/p&gt;
-&lt;p&gt;引出信息不对称问题的，要属经济学家阿克洛夫 1970 年发表的论文《柠檬市场：品质不确定性和市场机制》。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
-    
-    
-      <category term="相互依赖" scheme="http://www.stormdaglas.com/tags/%E7%9B%B8%E4%BA%92%E4%BE%9D%E8%B5%96/"/>
-    
-  </entry>
-  
-  <entry>
     <title>为啥我们的移动支付这么牛</title>
     <link href="http://www.stormdaglas.com/2018/05/13/20180528%E4%B8%BA%E5%95%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%A7%BB%E5%8A%A8%E6%94%AF%E4%BB%98%E8%BF%99%E4%B9%88%E7%89%9B/"/>
     <id>http://www.stormdaglas.com/2018/05/13/20180528为啥我们的移动支付这么牛/</id>
@@ -118,6 +134,27 @@
     
     
       <category term="时间有限" scheme="http://www.stormdaglas.com/tags/%E6%97%B6%E9%97%B4%E6%9C%89%E9%99%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>柠檬市场的故事</title>
+    <link href="http://www.stormdaglas.com/2018/05/13/20180513%E6%9F%A0%E6%AA%AC%E5%B8%82%E5%9C%BA%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    <id>http://www.stormdaglas.com/2018/05/13/20180513柠檬市场的故事/</id>
+    <published>2018-05-13T13:00:00.000Z</published>
+    <updated>2018-06-03T07:11:38.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;社会分工合作给彼此带来极大的利益，人与人之间是相互依赖的。你每天都要依赖别人给你提供的商品和服务，但由于信息不对称的存在，在交易中会出现一方「欺负」另一方的情况。&lt;/p&gt;
+&lt;p&gt;引出信息不对称问题的，要属经济学家阿克洛夫 1970 年发表的论文《柠檬市场：品质不确定性和市场机制》。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="相互依赖" scheme="http://www.stormdaglas.com/tags/%E7%9B%B8%E4%BA%92%E4%BE%9D%E8%B5%96/"/>
     
   </entry>
   
