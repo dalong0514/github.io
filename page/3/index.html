@@ -371,8 +371,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/04/14/20180414学会倾听/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/04/14/20180414学会倾听/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/04/14/20180414学会倾听/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -532,8 +531,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/04/10/20180410Google搜索使用技巧/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/04/10/20180410Google搜索使用技巧/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/04/10/20180410Google搜索使用技巧/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -690,8 +688,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/04/05/20180405对时间管理的认知/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/04/05/20180405对时间管理的认知/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/04/05/20180405对时间管理的认知/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -851,8 +848,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/03/22/20180322成本概念解读/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/03/22/20180322成本概念解读/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/03/22/20180322成本概念解读/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1008,8 +1004,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/03/17/20180317如何阅读一本书读后感/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/03/17/20180317如何阅读一本书读后感/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/03/17/20180317如何阅读一本书读后感/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1166,8 +1161,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/03/15/20180315JK摄影心得/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/03/15/20180315JK摄影心得/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/03/15/20180315JK摄影心得/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1327,8 +1321,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2018/03/14/20180314Hexo搭建博客托管到GitHub/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count"
-                        data-disqus-identifier="2018/03/14/20180314Hexo搭建博客托管到GitHub/" itemprop="commentCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/03/14/20180314Hexo搭建博客托管到GitHub/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1680,14 +1673,6 @@
 
   
 
-    
-      <script id="dsq-count-scr" src="https://stormdaglas.disqus.com/count.js" async></script>
-    
-
-    
-
-  
-
 
 
 
@@ -1703,12 +1688,38 @@
 
 
 
+  
 
 
 
 
 
 
+
+
+
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'QXMg67D7CHdoBk4aj4pDt90b-gzGzoHsz',
+        appKey: 'JaLXn9PrGpv3cbdIy0HxuooP',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
