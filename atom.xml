@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.stormdaglas.com/"/>
-  <updated>2018-09-24T15:08:43.477Z</updated>
+  <updated>2018-10-11T12:47:11.132Z</updated>
   <id>http://www.stormdaglas.com/</id>
   
   <author>
@@ -17,11 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>导热油载热体加热系统的设计概要</title>
-    <link href="http://www.stormdaglas.com/2018/09/25/20180925%E5%AF%BC%E7%83%AD%E6%B2%B9%E8%BD%BD%E7%83%AD%E4%BD%93%E5%8A%A0%E7%83%AD%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%A6%81/"/>
-    <id>http://www.stormdaglas.com/2018/09/25/20180925导热油载热体加热系统的设计概要/</id>
+    <title>2018年经济学诺奖</title>
+    <link href="http://www.stormdaglas.com/2018/10/11/20181011%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AF%BA%E5%A5%96/"/>
+    <id>http://www.stormdaglas.com/2018/10/11/20181011经济学诺奖/</id>
+    <published>2018-10-11T08:00:00.000Z</published>
+    <updated>2018-10-11T12:47:11.132Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
+    
+    
+      <category term="经济思维说" scheme="http://www.stormdaglas.com/tags/%E7%BB%8F%E6%B5%8E%E6%80%9D%E7%BB%B4%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不忘初心，精细设计</title>
+    <link href="http://www.stormdaglas.com/2018/09/25/20180925%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83%E7%B2%BE%E7%BB%86%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://www.stormdaglas.com/2018/09/25/20180925不忘初心精细设计/</id>
     <published>2018-09-25T13:00:00.000Z</published>
-    <updated>2018-09-24T15:08:43.477Z</updated>
+    <updated>2018-09-27T15:11:16.513Z</updated>
     
     <summary type="html">
     
@@ -35,11 +53,11 @@
   </entry>
   
   <entry>
-    <title>不忘初心，精细设计</title>
-    <link href="http://www.stormdaglas.com/2018/09/25/20180925%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83%E7%B2%BE%E7%BB%86%E8%AE%BE%E8%AE%A1/"/>
-    <id>http://www.stormdaglas.com/2018/09/25/20180925不忘初心精细设计/</id>
+    <title>导热油载热体加热系统的设计概要</title>
+    <link href="http://www.stormdaglas.com/2018/09/25/20180925%E5%AF%BC%E7%83%AD%E6%B2%B9%E8%BD%BD%E7%83%AD%E4%BD%93%E5%8A%A0%E7%83%AD%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%A6%81/"/>
+    <id>http://www.stormdaglas.com/2018/09/25/20180925导热油载热体加热系统的设计概要/</id>
     <published>2018-09-25T13:00:00.000Z</published>
-    <updated>2018-09-27T15:11:16.513Z</updated>
+    <updated>2018-09-24T15:08:43.477Z</updated>
     
     <summary type="html">
     
@@ -411,27 +429,6 @@
     
     
       <category term="相互依赖" scheme="http://www.stormdaglas.com/tags/%E7%9B%B8%E4%BA%92%E4%BE%9D%E8%B5%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为啥我们的移动支付这么牛</title>
-    <link href="http://www.stormdaglas.com/2018/05/13/20180528%E4%B8%BA%E5%95%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%A7%BB%E5%8A%A8%E6%94%AF%E4%BB%98%E8%BF%99%E4%B9%88%E7%89%9B/"/>
-    <id>http://www.stormdaglas.com/2018/05/13/20180528为啥我们的移动支付这么牛/</id>
-    <published>2018-05-13T13:00:00.000Z</published>
-    <updated>2018-06-03T07:10:37.059Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;全球领先的移动支付&quot;&gt;&lt;a href=&quot;#全球领先的移动支付&quot; class=&quot;headerlink&quot; title=&quot;全球领先的移动支付&quot;&gt;&lt;/a&gt;全球领先的移动支付&lt;/h2&gt;&lt;p&gt;大家都知道，我们在互联网领域里很多都是模仿国外的，国外先有一个，我们这边模仿一个很正常。但是移动支付领域可以说是我们的自主创新，目前已经大大领先欧美。&lt;/p&gt;
-&lt;p&gt;估计很多人跟我一样，出门身上是没现金的，消费交易要么支付宝要么微信，信用卡都很少刷了。咱今天就来说一说为啥我们的移动支付这么牛。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="经济" scheme="http://www.stormdaglas.com/categories/%E7%BB%8F%E6%B5%8E/"/>
-    
-    
-      <category term="时间有限" scheme="http://www.stormdaglas.com/tags/%E6%97%B6%E9%97%B4%E6%9C%89%E9%99%90/"/>
     
   </entry>
   
