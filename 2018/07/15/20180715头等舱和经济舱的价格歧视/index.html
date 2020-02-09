@@ -278,6 +278,25 @@
 
 
 
+
+<section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'dalong',
+            repo: 'dalong0514/github.io',
+            oauth: {
+                client_id: 'fcc25f8b595b1d1e2ad1',
+                client_secret: '7b91adf14886bc66826e1d1b1db74c98dc1648fd',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
+
+
         </div>
     </div>
 </article>
